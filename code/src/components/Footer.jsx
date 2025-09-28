@@ -17,7 +17,7 @@ export default function Footer() {
           {/* Right: Action Icons */}
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/hanoj-budime/react-json-viewer-editor/issues"
+              href="https://github.com/hanoj-budime/react-encoder-decoder-editor/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition"

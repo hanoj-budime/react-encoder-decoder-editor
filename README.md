@@ -8,7 +8,7 @@
 A modern web application to **encode and decode URLs, Base64, and Hex**.
 Built with **React + TailwindCSS**, featuring dark/light mode, responsive design, and flexible panel layouts (split or stacked).
 
-👉 **Live Demo:** [React JSON Viewer & Editor](https://hanoj-budime.github.io/react-encoder-decoder-editor/)
+👉 **Live Demo:** [React Encoder & Decoder Editor](https://hanoj-budime.github.io/react-encoder-decoder-editor/)
 
 ---
 

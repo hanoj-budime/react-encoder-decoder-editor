@@ -23,16 +23,6 @@ Built with **React + TailwindCSS**, featuring dark/light mode, responsive design
 
 ---
 
-## 📸 Screenshot
-
-*(Add your screenshot here after running the app, similar to your JSON viewer repo)*
-
-```
-docs/screenshot.png
-```
-
----
-
 ## ⚡ Installation
 
 Clone the repository and install dependencies:
